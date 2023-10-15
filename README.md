@@ -7,4 +7,4 @@ Dashboard Public Link-https://public.tableau.com/app/profile/tamilselvi.s6008/vi
 Story Public Link-https://public.tableau.com/app/profile/tamilselvi.s6008/viz/Loksabhaanalysis2019storyboardfinal/Story1?publish=yes
 
 
-Video Demonstration Link-https://drive.google.com/file/d/1HNp47Kwo9p8tO4MuqJvYG1j8K0iL8cJm/view?usp=x
+Video Demonstration Link-https://drive.google.com/file/d/1HNp47Kwo9p8tO4MuqJvYG1j8K0iL8cJm/view?usp=drivesdk
